@@ -1,0 +1,18 @@
+Époque 01/16: perte apprentissage=0.6152, validation=0.6203
+Époque 02/16: perte apprentissage=0.5185, validation=0.4802
+Époque 03/16: perte apprentissage=0.4514, validation=0.3998
+Époque 04/16: perte apprentissage=0.3840, validation=0.3429
+Époque 05/16: perte apprentissage=0.3261, validation=0.3591
+Époque 06/16: perte apprentissage=0.2731, validation=0.2376
+Époque 07/16: perte apprentissage=0.2326, validation=0.1810
+Époque 08/16: perte apprentissage=0.1923, validation=0.2332
+Époque 09/16: perte apprentissage=0.1573, validation=0.1379
+Époque 10/16: perte apprentissage=0.1473, validation=0.2741
+Époque 11/16: perte apprentissage=0.1240, validation=0.0986
+Époque 12/16: perte apprentissage=0.0953, validation=0.0828
+Époque 13/16: perte apprentissage=0.0847, validation=0.0819
+Époque 14/16: perte apprentissage=0.0705, validation=0.0602
+Époque 15/16: perte apprentissage=0.0608, validation=0.0550
+Époque 16/16: perte apprentissage=0.0523, validation=0.0489
+OK : modèle enregistré : models/unet_candidate.pt
+Source : composites synthétiques avec fonds photographiques CC0 — pas de véritables objets photographiques annotés

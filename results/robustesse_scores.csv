@@ -1,0 +1,7 @@
+image,IoU_masque_erode,IoU_UNet_apres_erosion,IoU_GrabCut_guide_apres_erosion_OPTION
+produit_01.png,0.8699,0.9559,1.0
+produit_02.png,0.8346,0.9345,1.0
+produit_03.png,0.8502,0.9521,1.0
+produit_04.png,0.8434,0.9446,1.0
+produit_05.png,0.5775,0.6467,1.0
+produit_06.png,0.8687,0.9342,1.0

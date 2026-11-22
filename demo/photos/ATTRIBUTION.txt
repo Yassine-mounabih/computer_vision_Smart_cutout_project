@@ -1,0 +1,6 @@
+Photographies de démonstration, sans masque de référence :
+01_chat_Chelsea.jpg — Stefan van der Walt, CC0 (skimage.data.chelsea).
+02_tasse_cafe.jpg — Rachel Michetti / Pikolo Espresso Bar, CC0 (skimage.data.coffee).
+03_astronaute.jpg — NASA, domaine public (skimage.data.astronaut).
+04_fusee.jpg — SpaceX, domaine public (skimage.data.rocket).
+Il ne faut pas calculer un score IoU/Dice sur ces photos sans masque annoté indépendant.

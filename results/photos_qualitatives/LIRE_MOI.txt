@@ -1,0 +1,7 @@
+Comparaison QUALITATIVE, sans masque de référence.
+Aucun IoU/Dice calculé et aucune promesse de perfection.
+
+01_chat_Chelsea.jpg: clic (232, 160), boîte (187, 1, 149, 273), U-Net pixels modifiés=305; GrabCut guide appliqué=False; jugement visuel nécessaire.
+02_tasse_cafe.jpg: clic (316, 210), boîte (57, 40, 434, 359), U-Net pixels modifiés=461; GrabCut guide appliqué=True; jugement visuel nécessaire.
+03_astronaute.jpg: clic (190, 292), boîte (1, 186, 296, 325), U-Net pixels modifiés=1318; GrabCut guide appliqué=True; jugement visuel nécessaire.
+04_fusee.jpg: clic (321, 210), boîte (269, 69, 103, 357), U-Net pixels modifiés=105; GrabCut guide appliqué=True; jugement visuel nécessaire.

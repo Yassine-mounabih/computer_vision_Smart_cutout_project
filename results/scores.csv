@@ -1,0 +1,7 @@
+image,IoU_GrabCut,IoU_GrabCut_UNet,IoU_GrabCut_guide_OPTION,Dice_GrabCut,Dice_GrabCut_UNet,Dice_GrabCut_guide_OPTION
+produit_01.png,1.0,1.0,1.0,1.0,1.0,1.0
+produit_02.png,1.0,1.0,1.0,1.0,1.0,1.0
+produit_03.png,1.0,1.0,1.0,1.0,1.0,1.0
+produit_04.png,1.0,1.0,1.0,1.0,1.0,1.0
+produit_05.png,0.8399,0.844,1.0,0.913,0.9154,1.0
+produit_06.png,1.0,1.0,1.0,1.0,1.0,1.0
